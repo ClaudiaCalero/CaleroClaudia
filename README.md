@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+ 
 </p>
 
 
@@ -63,8 +63,7 @@
 
 
 <p align="center"> 
-  <img src="https://c.tenor.com/XvPaAcd_CmwAAAAC/rolling-cute.gif" width="28" />Visitors count<br>
-  <img src="https://profile-counter.glitch.me/belcar-ceci/count.svg" />
+  <img src="https://c.tenor.com/XvPaAcd_CmwAAAAC/rolling-cute.gif" />
 </p>
 
 
