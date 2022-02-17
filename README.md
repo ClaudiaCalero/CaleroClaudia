@@ -63,8 +63,8 @@
 
 
 <p align="center"> 
-  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />Visitors count<br>
-  <img src="https://c.tenor.com/XvPaAcd_CmwAAAAC/rolling-cute.gif" />
+  <img src="https://c.tenor.com/XvPaAcd_CmwAAAAC/rolling-cute.gif" width="28" />Visitors count<br>
+  <img src="https://profile-counter.glitch.me/belcar-ceci/count.svg" />
 </p>
 
 
